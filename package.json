@@ -1,6 +1,6 @@
 {
   "name": "extremely-simple-flux-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an extremely simple demo for the Flux architecture",
   "main": "index.jsx",
   "scripts": {
